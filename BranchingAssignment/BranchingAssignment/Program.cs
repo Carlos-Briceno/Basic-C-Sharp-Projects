@@ -24,9 +24,16 @@ namespace BranchingAssignment
                 int packLength = Convert.ToInt32(Console.ReadLine());
                 // this mulitplies the weight, height, length and width and than divides it by 100 to get the total cost 
                 double packageCost = (packWeight * packHeight * packLength * packWidth) / 100.0;
-                // this will print the total cost of the package 
-                Console.WriteLine("The estimated cost of your package is: $" + packageCost.ToString());
-                Console.WriteLine("Thank you!");
+                if (packHeight + packLength + packWidth > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    // this will print the total cost of the package 
+                    Console.WriteLine("The estimated cost of your package is: $" + packageCost.ToString());
+                    Console.WriteLine("Thank you!");
+                }
 
             }
             else
