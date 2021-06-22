@@ -27,7 +27,7 @@ namespace ArrayAssignment
             int[] intArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             Console.WriteLine("Select the index of the int array between 0 and 9: ");
             int intIndex = Convert.ToInt32(Console.ReadLine());
-            if (intIndex < 9 && intIndex >= 0)
+            if (intIndex < 10 && intIndex >= 0)
             {
                 Console.WriteLine(intArray[intIndex]);
             }
@@ -42,7 +42,7 @@ namespace ArrayAssignment
             Console.WriteLine("Select the index of the string from 0 to 5: ");
             // this converts the strings into a int so when the user goes to type an answer they will use numbers instead 
             int listIndex = Convert.ToInt32(Console.ReadLine());
-            if (listIndex < 5 && listIndex >= 0)
+            if (listIndex < 6 && listIndex >= 0)
             {
                 Console.WriteLine(stringList[listIndex]);
             }
