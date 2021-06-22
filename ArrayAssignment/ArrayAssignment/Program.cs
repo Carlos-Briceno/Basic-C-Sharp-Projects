@@ -42,7 +42,7 @@ namespace ArrayAssignment
             Console.WriteLine("Select the index of the string from 0 to 5: ");
             // this converts the strings into a int so when the user goes to type an answer they will use numbers instead 
             int listIndex = Convert.ToInt32(Console.ReadLine());
-            if (listIndex < 8 && listIndex >= 0)
+            if (listIndex < 5 && listIndex >= 0)
             {
                 Console.WriteLine(stringList[listIndex]);
             }
