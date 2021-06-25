@@ -1,0 +1,7 @@
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe.config
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.pdb
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csproj.AssemblyReference.cache
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.exe
+C:\Users\cxbri\source\repos\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.pdb
