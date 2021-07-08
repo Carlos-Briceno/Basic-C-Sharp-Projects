@@ -21,7 +21,7 @@ namespace CallingMethodsAssignment
           return result;
        }
       
-       public int Method2 (int x, int y = 2)
+       public int Method3 (int x, int y = 2)
        {
           int result = x / y;
           return result;
