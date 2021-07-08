@@ -14,5 +14,17 @@ namespace CallingMethodsAssignment
             // returns the result which is x + y
             return result;
         }
+      
+       public int Method2 (int x, int y = 1)
+       {
+          int result = x * y;
+          return result;
+       }
+      
+       public int Method2 (int x, int y = 2)
+       {
+          int result = x / y;
+          return result;
+       }
     }
 }
