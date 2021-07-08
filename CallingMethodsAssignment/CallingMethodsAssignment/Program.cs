@@ -28,6 +28,10 @@ namespace CallingMethodsAssignment
                 int number = Convert.ToInt32(randomStr);
                 // prints off Method1 which is x + y after the user picks two numbers which will come from randomNum and number 
                 Console.WriteLine(param.Method1(randomNum, number));
+                
+                Console.WriteLine(param.Method2(randomNum, number));
+                
+                Console.WriteLine(param.Method3(randomNum, number));
             }
             Console.ReadLine();
         }
