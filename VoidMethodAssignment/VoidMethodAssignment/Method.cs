@@ -16,9 +16,9 @@ namespace VoidMethodAssignment
             Console.WriteLine(y);
 
             // grabs operation and displays the sum
-            Console.WriteLine("The sum of x and 12 is " + operation);
+            Console.WriteLine("The sum of x and 12 = {0} ", operation);
             // grabs y and displays the value of y
-            Console.WriteLine("The value of y is " + y);
+            Console.WriteLine("The value of y + {0} ", y);
         }
     }
 }
