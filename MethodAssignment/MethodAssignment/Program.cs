@@ -7,16 +7,18 @@ namespace MethodAssignment
     {
         static void Main(string[] args)
         {
+            Method method = new Method();
+            
             // prints please enter a number to the console
             Console.WriteLine("Please enter a number: ");
             // converts num1 to an int 
             int num1 = Convert.ToInt32(Console.ReadLine());
             // grabs mymethod from method.cs file and uses x - y than prints the sum onto the console
-            Method.myMethod(num1);
+            method.myMethod(num1);
 
             Console.WriteLine("Enter a second if you would like. ");
             int num2 = Convert.ToInt32(Console.ReadLine());
-            Method.myMethod(num1, num2);
+            method.myMethod(num1, num2);
             Console.ReadLine();
         }
     }
