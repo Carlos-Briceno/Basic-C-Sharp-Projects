@@ -12,7 +12,7 @@ namespace VoidMethodAssignment
         {
             Method method = new Method();
 
-            method.myMethod(5, 12);
+            method.myMethod(x:5, y:12);
 
             Console.ReadLine();
         }
