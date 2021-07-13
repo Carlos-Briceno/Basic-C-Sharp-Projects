@@ -5,9 +5,10 @@ namespace MethodAssignment
 {
    public class Method
     {
-         public void myMethod(int x, int y = 4)
+         public int myMethod(int x, int y = 4)
         {
-            Console.WriteLine(x - y);
+            int result = x - y;
+            return result;
         }
     }
 }
