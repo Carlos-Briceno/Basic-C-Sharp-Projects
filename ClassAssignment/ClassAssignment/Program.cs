@@ -10,6 +10,8 @@ namespace ClassAssignment
     {
         static void Main(string[] args)
         {
+            Method method = new Method();
+            
             Console.WriteLine("Please enter a number: ");
             int userInput = Convert.ToInt32(Console.ReadLine());
 
