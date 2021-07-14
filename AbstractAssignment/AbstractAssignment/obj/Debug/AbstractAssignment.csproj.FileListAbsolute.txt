@@ -1,0 +1,7 @@
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.exe.config
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.exe
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.pdb
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.AssemblyReference.cache
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.exe
+C:\Users\cxbri\source\repos\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.pdb
