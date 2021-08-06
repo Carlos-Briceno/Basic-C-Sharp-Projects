@@ -32,14 +32,14 @@ namespace LambdaAssignment
                     Templist.Add(employee);
                 }
             }
-
+            // gets everyone employee in Templist
             foreach (Employee employee in Templist)
             {
                 Console.WriteLine(employee.FirstName);
             }
-
             List<Employee> joe = employees.Where(x => x.FirstName == "Joe").ToList();
-
+               
+            // grabs every employee in the list with the name joe in it 
             foreach (Employee employee in joe)
             {
                 Console.WriteLine(employee.FirstName);
@@ -52,6 +52,7 @@ namespace LambdaAssignment
 
             foreach (Employee employee in GreatThanFive)
             {
+                // after grabing every employee greater than 5 it than prints the employees first name, last name, and id number
                 Console.WriteLine("First Name: " + employee.FirstName + " Last Name: " + employee.LastName + " ID: " + employee.Id);
             }
             Console.ReadLine();
