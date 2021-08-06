@@ -10,6 +10,7 @@ namespace LambdaAssignment
     {
         static void Main()
         {
+            // creates a new list of employees with an id 
             List<Employee> employees = new List<Employee>();
             employees.Add(new Employee { FirstName = "Joe", LastName = "Green", Id = 1 });
             employees.Add(new Employee { FirstName = "Ryan", LastName = "Reynolds", Id = 2 });
@@ -25,7 +26,7 @@ namespace LambdaAssignment
             List<Employee> Templist = new List<Employee>();
             foreach (var employee in employees)
             {
-
+                // grabs every first name that is joe
                 if (employee.FirstName == "Joe")
                 {
                     Templist.Add(employee);
@@ -45,6 +46,7 @@ namespace LambdaAssignment
             }
 
             List<Employee> GreatThanFive = employees.Where(x => x.Id > 5).ToList();
+            // prints every employee that as an id greater than 5
             Console.WriteLine("list of all employees with an Id number greater than 5");
 
 
