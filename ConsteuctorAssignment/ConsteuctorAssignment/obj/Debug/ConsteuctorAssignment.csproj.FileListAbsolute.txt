@@ -1,7 +1,0 @@
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\bin\Debug\ConsteuctorAssignment.exe.config
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\bin\Debug\ConsteuctorAssignment.exe
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\bin\Debug\ConsteuctorAssignment.pdb
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\obj\Debug\ConsteuctorAssignment.csproj.AssemblyReference.cache
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\obj\Debug\ConsteuctorAssignment.csproj.CoreCompileInputs.cache
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\obj\Debug\ConsteuctorAssignment.exe
-C:\Users\cxbri\source\repos\ConsteuctorAssignment\ConsteuctorAssignment\obj\Debug\ConsteuctorAssignment.pdb
