@@ -1,0 +1,12 @@
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\obj\Debug\AddStudentAssignment.csproj.AssemblyReference.cache
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\obj\Debug\AddStudentAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\AddStudentAssignment.exe.config
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\AddStudentAssignment.exe
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\AddStudentAssignment.pdb
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\EntityFramework.dll
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\EntityFramework.xml
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\obj\Debug\AddStudentAssignment.csproj.CopyComplete
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\obj\Debug\AddStudentAssignment.exe
+C:\Users\cxbri\source\repos\AddStudentAssignment\AddStudentAssignment\obj\Debug\AddStudentAssignment.pdb
